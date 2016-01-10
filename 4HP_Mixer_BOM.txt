@@ -1,0 +1,19 @@
+4HP_Mixer_BOM
+
+Qty Value      Device               Parts
+4   100nF      CAP0603-CAP          C3, C4, C5, C6
+1              DUALSMD              IC1
+1              EURO_POWER_HEADER    SV1
+1              Dual_Color_LED3MM    LED
+1   1K         RESISTOR0603-RES     R4
+2   10u        CAPACITOR_POL-CASE_B C1, C2
+1   47K        RESISTOR0603-RES     R8
+1   100K       POTSSMALL_PADS       TRIM
+5   100K       RESISTOR0603-RES     R1, R2, R3, R5, R6
+3   100KA      POTS9MM_MOUNTED      1, 2, 3
+1   100KB      CD_POTS9MM_MOUNTED   GAIN
+1   100R       RESISTOR0603-RES     R7
+2   BAT20J     DIODESOD123          D1, D2
+2   FB         FB                   U$1, U$2
+1   LM321MF    LM321MF              IC2
+4   THONKICONN THONKICONN           I1, I2, I3, O

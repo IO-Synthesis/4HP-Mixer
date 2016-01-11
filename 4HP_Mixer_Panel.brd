@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="yes"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.05" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.025" altunitdist="inch" altunit="inch"/>
+<grid distance="0.05" unitdist="inch" unit="mm" style="lines" multiple="1" display="no" altdistance="0.025" altunitdist="inch" altunit="inch"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="2" name="Route2" color="1" fill="3" visible="no" active="no"/>
@@ -449,13 +449,13 @@ Please make sure your boards conform to these design rules.</description>
 <signal name="GND">
 <via x="7.5" y="3" extent="1-16" drill="3.2" diameter="5"/>
 <via x="7.5" y="125.5" extent="1-16" drill="3.2" diameter="5"/>
-<via x="9.95" y="47.27" extent="1-16" drill="7.1"/>
+<via x="9.95" y="47.27" extent="1-16" drill="8.8"/>
 <via x="4.87" y="28.855" extent="1-16" drill="6"/>
-<via x="9.95" y="67.59" extent="1-16" drill="7.1"/>
+<via x="9.95" y="67.59" extent="1-16" drill="8.8"/>
 <via x="4.87" y="16.155" extent="1-16" drill="6"/>
 <via x="15.03" y="28.855" extent="1-16" drill="6"/>
-<via x="9.95" y="87.91" extent="1-16" drill="7.1"/>
-<via x="9.95" y="108.39" extent="1-16" drill="7.1"/>
+<via x="9.95" y="87.91" extent="1-16" drill="8.8"/>
+<via x="9.95" y="108.39" extent="1-16" drill="8.8"/>
 <polygon width="0.4064" layer="1">
 <vertex x="0" y="0"/>
 <vertex x="20.001228125" y="0"/>
